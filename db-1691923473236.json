@@ -1,0 +1,22 @@
+{
+  "careers": [
+    {
+      "id": 1,
+      "title": "React Developer",
+      "salary": 100000,
+      "location": "banglore"
+    },
+    {
+      "id": 1,
+      "title": "python Developer",
+      "salary": 50000,
+      "location": "banglore"
+    },
+    {
+      "id": 1,
+      "title": "node js Developer",
+      "salary": 25000,
+      "location": "banglore"
+    }
+  ]
+}
